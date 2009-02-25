@@ -1,0 +1,3 @@
+# DO NOT CHECK THIS FILE IN, IT IS YOUR SPECIAL SECRET
+
+GLOBAL_SALT = 'the magic salt for generating keys'
